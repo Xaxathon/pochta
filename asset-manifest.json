@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.32270a83.css",
+    "main.js": "/static/js/main.9d346bfc.js",
+    "static/js/787.60db2496.chunk.js": "/static/js/787.60db2496.chunk.js",
+    "index.html": "/index.html",
+    "static/media/world.svg": "/static/media/world.eab8311788f62e62f07df10a69cee6f3.svg",
+    "static/media/warranty.svg": "/static/media/warranty.a42f729d703f2b4c6a32f78767e1f4e6.svg",
+    "static/media/coin.svg": "/static/media/coin.977e97007f77316de7eebb02659eb2b2.svg",
+    "static/media/cart.svg": "/static/media/cart.010029105878d81d813c0d7ab00d2e81.svg",
+    "static/media/search.svg": "/static/media/search.cbe6e0a54c34d1b8821e53eb08aee75b.svg",
+    "static/media/star.svg": "/static/media/star.a6a5ff72437c06ba1f9df3154a8f8ea3.svg",
+    "static/media/close.svg": "/static/media/close.421145f5f5da9d2583e7b64b929b9921.svg",
+    "static/media/next.svg": "/static/media/next.98d2790779b59ab1d40ba82655b21a77.svg",
+    "static/media/previus.svg": "/static/media/previus.4177f9b82326e3337900f005fb0fed59.svg",
+    "main.32270a83.css.map": "/static/css/main.32270a83.css.map",
+    "main.9d346bfc.js.map": "/static/js/main.9d346bfc.js.map",
+    "787.60db2496.chunk.js.map": "/static/js/787.60db2496.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32270a83.css",
+    "static/js/main.9d346bfc.js"
+  ]
+}
